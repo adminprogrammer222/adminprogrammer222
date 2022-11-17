@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python , frontend WebDevelopment**
 
-- 📫 How to reach me **[Gmail](keshavnimesh6@gmail.com)**
+- 📫 How to reach me **[from gmail](keshavnimesh6@gmail.com)**
 
 - ⚡ Fun fact **I think i can learn everything 💀**
 
