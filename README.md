@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Java script , Backend development**
 
-- 👨‍💻 Some of my old projects when i was beginner are at [imkingpro.000webhostapp.com](imkingpro.000webhostapp.com)
+- 👨‍💻 Some of my old projects when i was beginner are at [imkingpro.000webhostapp.com](https://imkingpro.000webhostapp.com)
 
 - 💬 Ask me about **Python , frontend WebDevelopment**
 
-- 📫 How to reach me? **[Just mail me](keshavnimesh6@gmail.com)**
+- 📫 How to reach me? **[Just mail me](mailto:keshavnimesh6@gmail.com)**
 
 - ⚡ Fun fact **I think i can learn everything 💀**
 
